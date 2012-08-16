@@ -17,6 +17,7 @@ Then, when you need to access a variable, simply do:
 
 ```php
 $name = $input->post('name');
+
 ```
 
 If that input variable is empty or not set, the function will return `false`.
@@ -35,6 +36,7 @@ switch ($lang) {
 		// Load the English (USA) language files  
 		break;  
 }
+
 ```
 
 Methods
