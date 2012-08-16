@@ -53,4 +53,4 @@ array key. If you don't, we'll give you everything that's within that array.
 
 License: Beerware <http://wikipedia.org/wiki/Beerware>
 
-Copyright (C) 2012 Bheesham Persaud.
+Copyright (C) 2012 Bheesham Persaud. 
