@@ -2,7 +2,7 @@
 /**
  * 	A class to handle getting inputs.
  *
- * 	@author 		Bheesham Persaud <http://bheesham.com/>
+ * 	@author 		Bheesham Persaud <bheesham.persaud@live.ca>
  * 	@copyright 	Copyright (C) 2012 Bheesham Persaud.
  * 	@license 		Beerware <http://wikipedia.org/wiki/Beerware>
  */
