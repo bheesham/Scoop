@@ -40,14 +40,14 @@ switch ($lang) {
 ```
 
 Methods
-------------
+-------
 Need to do more than just get a $_GET variable? Not to worry, we've got you 
 covered.
 
-  - For: `$_GET`, use: `->get()'
-  - For: `$_POST`, use: `->post()'
-  - For: `$_SESSION`, use: `->session()'
-  - For: `$_COOKIE`, use: `->cookie()'
+  - For: `$_GET`, use: `->get()`
+  - For: `$_POST`, use: `->post()`
+  - For: `$_SESSION`, use: `->session()`
+  - For: `$_COOKIE`, use: `->cookie()`
   - For *everything*, use: `->all()`
 
 Of course for everything other than `->all()`, you would need to pass in the 
